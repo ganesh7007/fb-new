@@ -1,0 +1,150 @@
+      
+ body,h1,h2,p{
+    margin: 0px;
+}
+.background{
+   
+   
+  background-image: url(/facebook.signup/cybersecurity-icons-protect-your-digital-world_9975-15632.avif);
+  background-size: cover;
+  mix-blend-mode:normal;
+
+
+  
+  
+  
+}
+
+.main-div{ 
+    display: flex;
+    justify-content: center;
+    
+   align-items: center;
+   flex-direction: column;
+   padding: 0px 0px 90px 0px;
+
+}
+#logo{
+    font-size: 55px;
+     padding: 10px;
+     color:#0ceb92 
+   }
+.sign-up{
+   background-color:#67113d ; 
+   width: 500px  ;
+   border-radius: 5px;
+}
+.form-heading{
+
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid #141818;
+    color: rgb(143, 234, 244);
+}
+h2{ 
+   padding-bottom: 7px;
+}
+.rrr{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+input,select{
+    padding: 7px;
+    border:  2px solid rgb(11, 100, 60) ;
+    border-radius: 5px; 
+    width: 100%;
+    margin: 4px;
+}
+.half-width{
+    display: flex;
+    width:48%;
+  
+}
+.full-width{
+    display: flex;
+    width: 100%;
+
+}
+label{
+color: rgb(200, 228, 129);
+padding: 5px;
+flex-direction: column;
+}
+.dob{
+    display: flex;
+    width: 100%;
+    
+}
+.quat-wie{
+    width: 100%;
+    display: flex;
+  
+}
+.radio-oo{
+    border-radius: 5px;
+    border:  2px solid rgb(211, 41, 53) ;
+    background-color:white;
+    
+    display: flex;
+    align-items: center;
+   
+    width: 100%;
+    padding: 4px;
+    
+    
+}
+
+.int-oo{
+    margin: 0%;
+    width: auto;
+
+    
+}
+
+.lable-oo{
+    padding: 0.60%;
+    width: 100%;
+    color: #0f0e0e;
+}
+.new{
+  width: 100%;
+
+  display: flex;
+}
+.wie{
+    width: 100%;
+    display: flex;
+  padding: 5px;
+}
+small{
+    font-size: 15px;
+    color: #f2efee;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+}
+.button{
+   padding: 15px 0;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+}
+.btn-login{
+    padding: 8px 60px ;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500px;
+    
+
+}
+.runner{
+    padding: 0px 0px 30px 0px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
